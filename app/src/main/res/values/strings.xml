@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gyster</string>
+    <string name="ShowText">Calculate Value in Miles</string>
+    <string name="LabelText">Enter Distance Value in Km</string>
+</resources>
